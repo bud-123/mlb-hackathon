@@ -1,0 +1,15 @@
+{
+  "short_name": "MLB Spring League AI Search",
+  "name": "MLB Spring League AI Search",
+  "icons": [
+    {
+      "src": "icons8-baseball-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
